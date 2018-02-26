@@ -16,7 +16,9 @@
 Пример
 ------
 	go run main.go -f file
+
 или
+
 	go build
 	./SherlockNgramHolmes -f file
 	./SherlockNgramHolmes -f file -s 10 -e -v
